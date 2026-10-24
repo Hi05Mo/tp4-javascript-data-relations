@@ -1,0 +1,58 @@
+[
+    {
+        "id": 101,
+        "name": "Ordinateur portable",
+        "category": "Informatique",
+        "price": 8500,
+        "stock": 8
+    },
+    {
+        "id": 102,
+        "name": "Souris sans fil",
+        "category": "Accessoires",
+        "price": 180,
+        "stock": 25
+    },
+    {
+        "id": 103,
+        "name": "Clavier mecanique",
+        "category": "Accessoires",
+        "price": 450,
+        "stock": 12
+    },
+    {
+        "id": 104,
+        "name": "Ecran 24 pouces",
+        "category": "Informatique",
+        "price": 1600,
+        "stock": 10
+    },
+    {
+        "id": 105,
+        "name": "Chaise de bureau",
+        "category": "Mobilier",
+        "price": 1200,
+        "stock": 6
+    },
+    {
+        "id": 106,
+        "name": "Bureau de travail",
+        "category": "Mobilier",
+        "price": 2200,
+        "stock": 4
+    },
+    {
+        "id": 107,
+        "name": "Cle USB 64 Go",
+        "category": "Accessoires",
+        "price": 90,
+        "stock": 40
+    },
+    {
+        "id": 108,
+        "name": "Imprimante",
+        "category": "Informatique",
+        "price": 1400,
+        "stock": 7
+    }
+]
